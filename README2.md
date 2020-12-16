@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## UNIVERSIDAD AUTOMA DE BAJA CALIFORNIA
 
-You can use the [editor on GitHub](https://github.com/Malpica7/Proyecto-Final-PyMN-28/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## PROGRAMACION Y METODOS NUMERICOS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PROFESOR ROILHI FRAJO IBARRA HERNANDEZ
 
-### Markdown
+**JAVIER MALPICA BECERRA**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ESTE REPOSITORIO CONTIENE TODOS LOS SEUDOCODIGOS DE LA MATERIA DE PROGRAMACION Y METODOS NUMERICOS DE LA CLASE DEL PROFESOR ROILHI FRAJO IBARRA HERNANDEZ 
 
-```markdown
-Syntax highlighted code block
+* LABORATORIO#1
+- EJERCICIO A)
+- EJERCICIO B)
+- EJERCICIO C)
 
-# Header 1
-## Header 2
-### Header 3
+* LABORATORIO #2
+-
+- DESCUENTOS
+- FORMULA GENERAL
+- INDICE DE MASA CORPORAL
+- IMPUESTOS
+- PAR E IMPAR
 
-- Bulleted
-- List
+* LABORATORIO #3
+- 4 CIFRAS
+- BINARIOS
+- SECUENCIA FIBOMACCI A)
+- SECUENCIA FIBOMACCI B)
 
-1. Numbered
-2. List
+* LABORATORIO #4
+- IMPRIMIR 2 ARREGLOS
+- MATRIZ 1)
+- MATRIZ 2)
+- MULTIPLICACION DE MATRICES
+- FUNCION RAND
+- SUMATORIA DE UN  V
+- SUMA DE VECTORES
+- SUMA DE MATRICES
 
-**Bold** and _Italic_ and `Code` text
+* LABORATORIO#5
+- BISECCION 
+- BISECCION 2
+- REGLA FALSA
+- REGLA FALSA 2
 
-[Link](url) and ![Image](src)
-```
+* LABORATORIO#6
+- NEWTON-RAPHSON
+- SECANTE
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* LABORATORIO#10
+- DERIVACION NUMERICA
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Malpica7/Proyecto-Final-PyMN-28/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
