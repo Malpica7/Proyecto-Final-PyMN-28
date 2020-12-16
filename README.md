@@ -32,6 +32,10 @@
 
 ## LABORATORIO # 1  
 
+INTRODUCCION AL ENTORNO Y VARIABLES DE PROGRAMACION EN LENGUAJE C 
+
+Identificamos el lenguaje de programación c y su sintaxis además de su desarrollo y la estructura del programa. 
+
   
 
 [EJERCICIO A)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%231/Ejercicio%20a%20PyM.cpp) 
@@ -52,7 +56,11 @@
 
 ## LABORATORIO # 2  
 
-  
+ ESTRUCTURAS DE CONTROL CONDICIONALES SIMPLES Y MULTIPLES. 
+
+Aprendimos realizar diagramas de flujo, a desarrollar algoritmos y pasarlos a lenguaje c 
+
+ 
 
 [DESCUENTOS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%232/Descuentos.cpp) 
 
@@ -80,7 +88,11 @@
 
 ## LABORATORIO # 3  
 
-  
+ ESTRUCTURAS REPETITIVAS 
+
+Aprendimos a utilizar los ciclos, tales como el while, do while y for. 
+
+ 
 
 [4 CIFRAS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%233/4%20cifras.cpp) 
 
@@ -104,7 +116,11 @@
 
 ## LABORATORIO # 4  
 
-  
+ FUNCIONES ARREGLOS Y MATRICES 
+
+Aprendimos a utilizar arreglos, realizar matrices en lenguaje C y también a poner nuevas bibliotecas las cuales son de ayuda para este laboratorio. 
+
+ 
 
 [IMPRIMIR 2 ARREGLOS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Imprimir%202%20arreglos.cpp) 
 
@@ -146,7 +162,11 @@
 
 ## LABORATORIO # 5  
 
-  
+ METODOS CERRADOS: DE LA BISECCION Y REGLA FALSA 
+
+Aprendimos a utilizar dos métodos, la regla falsa y la bisección, ambos consisten en aproximarse al valor exacto de una raíz cuadrada. 
+
+ 
 
 [BISECCION](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%235/Biseccion.cpp) 
 
@@ -170,7 +190,11 @@
 
 ## LABORATORIO # 6  
 
-  
+ METODOS DE NEWTON-RHAPSON Y DE LA SECANTE 
+
+En el método de Newton-Raphson se aproxima a la raíz cuadrada al trazar una tangente y el método de la secante deriva de la función. 
+
+ 
 
 [NEWTON-RAPHSON](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%236/Newton-Raphson%20.cpp) 
 
@@ -186,7 +210,11 @@
 
 ## LABORATORIO # 10  
 
-  
+ DERIVACION NUMERICA 
+
+Por medio de la derivada numérica de una función se calcula la pendiente tangente a la recta de un punto. 
+
+ 
 
 [DERIVACION NUMERICA](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%2310/PRACTICA%2310.cpp) 
 
@@ -197,6 +225,12 @@
  
 
 ## LABORATORIO # 11 
+
+METODOS DE ECUACIONES LINEALES 
+
+Con este método de ecuaciones lineales aprendimos a hacerlo de dos formas, las cuales son las de Gauss-Seidel y por el método de Jacob 
+
+ 
 
 [METODO GAUSS-SEIDEL](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%2311/Metodo%20GaussSeidel.cpp) 
 
