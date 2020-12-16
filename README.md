@@ -38,7 +38,7 @@
 
   
 
-  [EJERCICIO B)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%231/Ejercicio%20b)%20PyM.cpp) 
+[EJERCICIO B)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%231/Ejercicio%20b)%20PyM.cpp) 
 
   
 
@@ -62,15 +62,15 @@
 
   
 
-  [INDICE DE MASA CORPORAL](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%232/IMC.cpp) 
+[INDICE DE MASA CORPORAL](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%232/IMC.cpp) 
 
   
 
-  [IMPUESTOS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%232/impuestos.cpp) 
+[IMPUESTOS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%232/impuestos.cpp) 
 
   
 
-  [PAR E IMPAR](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%232/Par%20e%20Impar.cpp) 
+[PAR E IMPAR](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%232/Par%20e%20Impar.cpp) 
 
   
 
@@ -82,19 +82,19 @@
 
   
 
- [4 CIFRAS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%233/4%20cifras.cpp) 
+[4 CIFRAS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%233/4%20cifras.cpp) 
 
   
 
-  [BINARIOS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%233/Binarios.cpp) 
+[BINARIOS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%233/Binarios.cpp) 
 
   
 
-  [SECUENCIA FIBOMACCI A)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%233/Secuencia%20Fibomacci%20a.cpp) 
+[SECUENCIA FIBOMACCI A)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%233/Secuencia%20Fibomacci%20a.cpp) 
 
   
 
-  [SECUENCIA FIBOMACCI B)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%233/Secuencia%20Fibomacci%20b.cpp) 
+[SECUENCIA FIBOMACCI B)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%233/Secuencia%20Fibomacci%20b.cpp) 
 
   
 
@@ -106,15 +106,15 @@
 
   
 
-  [IMPRIMIR 2 ARREGLOS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Imprimir%202%20arreglos.cpp) 
+[IMPRIMIR 2 ARREGLOS](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Imprimir%202%20arreglos.cpp) 
 
   
 
-  [MATRIZ 1)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Matriz%201.cpp) 
+[MATRIZ 1)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Matriz%201.cpp) 
 
   
 
-  [MATRIZ 2)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Matriz%202.cpp) 
+[MATRIZ 2)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Matriz%202.cpp) 
 
   
 
@@ -122,19 +122,19 @@
 
   
 
-  [FUNCION RAND] (https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Rand.cpp) 
+[FUNCION RAND](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Rand.cpp) 
 
  
 
-  [SUMA DE MATRICES](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Suma%20Matricez.cpp) 
+[SUMA DE MATRICES](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Suma%20Matricez.cpp) 
 
  
 
-  [SUMATORIA DE UN V](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Suma%20de%20un%20vector.cpp) 
+[SUMATORIA DE UN V](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Suma%20de%20un%20vector.cpp) 
 
   
 
-  [SUMA DE VECTORES](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Suma%20de%20vectores.cpp) 
+[SUMA DE VECTORES](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%234/Suma%20de%20vectores.cpp) 
 
   
 
@@ -148,7 +148,7 @@
 
   
 
-  [BISECCION](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%235/Biseccion.cpp) 
+[BISECCION](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%235/Biseccion.cpp) 
 
   
 
