@@ -34,15 +34,15 @@
 
   
 
-[EJERCICIO A)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%231/Ejercicio%20a)%20PyM.cpp) 
+[EJERCICIO A)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%231/Ejercicio%20a%20PyM.cpp) 
 
   
 
-[EJERCICIO B)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%231/Ejercicio%20b)%20PyM.cpp) 
+[EJERCICIO B)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%231/Ejercicio%20b%20PyM.cpp) 
 
   
 
-[EJERCICIO C)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%231/Ejercicio%20c)%20PyM.cpp) 
+[EJERCICIO C)](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%231/Ejercicio%20c%20PyM.cpp) 
 
   
 
