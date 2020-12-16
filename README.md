@@ -1,4 +1,4 @@
-## UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA  
+## UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA   
 
   
 
@@ -189,5 +189,19 @@
   
 
 [DERIVACION NUMERICA](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%2310/PRACTICA%2310.cpp) 
+
+ 
+
+ 
+
+ 
+
+## LABORATORIO # 11 
+
+[METODO GAUSS-SEIDEL](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%2311/Metodo%20GaussSeidel.cpp) 
+
+ 
+
+[METODO JACOBI](https://github.com/Malpica7/Proyecto-Final-PyMN-28/blob/main/Laboratorio/LABORATORIO%2311/Metodo%20Jacobi.cpp)
 
  
